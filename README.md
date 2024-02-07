@@ -1,16 +1,5 @@
-# nutritionist
+# Nutritionist Clone
 
-A new Flutter project.
+A Flutter Website developed based from the Figma community design. This web project is responsive layouting like original design, but i made some adjustments to enhance the user experience and the development process like using Material Design 3, using Faker package for blog photos, etc. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can check out the Figma Design : https://www.figma.com/community/file/1295130769939712364/nutritionist-light-theme-healthy-diet-planning-website-ui-design-template-free-editable
