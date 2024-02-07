@@ -1,0 +1,32 @@
+name: nutritionist
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.2 <4.0.0'
+
+dependencies:
+  cached_network_image: ^3.3.0
+  cupertino_icons: ^1.0.2
+  device_preview: ^1.1.0
+  faker: ^2.1.0
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.9
+  get: 4.6.6
+  google_fonts: ^6.1.0
+  heroicons_flutter: ^0.3.0
+  icon_icons: ^1.0.4
+  responsive_framework: ^1.1.1
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/svg/
+    - assets/png/
